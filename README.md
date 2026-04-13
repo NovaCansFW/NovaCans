@@ -145,10 +145,10 @@
 </section>
 
 <div class="trust-bar">
-  <div class="trust-item">✅ Trash Can Set-Out</div>
-  <div class="trust-item">🚛 Junk Removal</div>
-  <div class="trust-item">🌿 Lawn Mowing</div>
-  <div class="trust-item">💦 Pressure Washing</div>
+  <div class="trust-item"> 1 Trash Can Set-Out</div>
+  <div class="trust-item"> 2 Junk Removal</div>
+  <div class="trust-item"> 3 Lawn Mowing</div>
+  <div class="trust-item"> 4 Pressure Washing</div>
   <div class="trust-item">📍 Fort Worth, TX</div>
 </div>
 
@@ -164,31 +164,31 @@
       <span class="service-tag">Weekly / Bi-Weekly Plans</span>
     </div>
     <div class="service-card">
-      <div class="service-icon" style="background:#d1fae5;">🌿</div>
+      <div class="service-icon" style="background:#d1fae5;"></div>
       <h3>Lawn Mowing</h3>
       <p>Keep your property looking sharp year-round. We provide reliable mowing services for residential and commercial properties, including rentals that need regular upkeep between tenants.</p>
       <span class="service-tag">Recurring &amp; One-Time</span>
     </div>
     <div class="service-card">
-      <div class="service-icon" style="background:#e0f8ff;">💦</div>
+      <div class="service-icon" style="background:#e0f8ff;"></div>
       <h3>Pressure Washing</h3>
       <p>Driveways, sidewalks, patios, siding — we blast away grime, mold, and buildup to restore your property's curb appeal fast. Great for turnovers and seasonal cleanups.</p>
       <span class="service-tag">Residential &amp; Commercial</span>
     </div>
     <div class="service-card">
-      <div class="service-icon" style="background:#ede9fe;">🏡</div>
+      <div class="service-icon" style="background:#ede9fe;"></div>
       <h3>Airbnb &amp; Short-Term Rental</h3>
       <p>Keep your guest reviews spotless. We handle trash, lawn, and cleaning services coordinated around your rental calendar — no awkward surprises for guests.</p>
       <span class="service-tag">Rental-Friendly Scheduling</span>
     </div>
     <div class="service-card">
-      <div class="service-icon" style="background:#fff4e6;">🚛</div>
+      <div class="service-icon" style="background:#fff4e6;"></div>
       <h3>Large Item &amp; Junk Removal</h3>
       <p>Old furniture, appliances, renovation debris — we haul it away fast. Great for property turnovers, full cleanouts, and anything that won't fit in a standard bin.</p>
       <span class="service-tag">On-Demand Scheduling</span>
     </div>
     <div class="service-card">
-      <div class="service-icon" style="background:#d1fae5;">🏢</div>
+      <div class="service-icon" style="background:#d1fae5;"></div>
       <h3>Commercial Properties</h3>
       <p>Restaurants, offices, retail — if your service day doesn't line up with staff hours, we handle trash set-out, grounds maintenance, and more so you stay compliant and clean.</p>
       <span class="service-tag">Business Accounts</span>
@@ -232,7 +232,7 @@
   <p class="section-sub">Anyone in the Fort Worth area who needs reliable property services without being there in person.</p>
   <div class="audience-grid">
     <div class="audience-card">
-      <div class="a-icon">🏠</div>
+      <div class="a-icon"></div>
       <h4>Airbnb &amp; VRBO Hosts</h4>
       <p>Keep your property guest-ready with trash service, lawn care, and pressure washing between turnovers.</p>
     </div>
@@ -242,12 +242,12 @@
       <p>Manage dozens of units? We scale with you and handle every service day across your entire portfolio.</p>
     </div>
     <div class="audience-card">
-      <div class="a-icon">🏪</div>
+      <div class="a-icon"></div>
       <h4>Small Businesses</h4>
       <p>Restaurants, salons, shops — we work around your hours so trash days and grounds upkeep are never a headache.</p>
     </div>
     <div class="audience-card">
-      <div class="a-icon">👴</div>
+      <div class="a-icon"></div>
       <h4>Elderly &amp; Mobility-Limited</h4>
       <p>Affordable trash set-out, lawn mowing, and more for individuals who need a dependable helping hand.</p>
     </div>
